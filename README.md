@@ -18,3 +18,6 @@ Data science portfolio
 *One assessment was in need of recalibration as the results consistently categorized the majority of students well below benchmark*
 
 ![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/MCLASS_TOTALS.png)
+![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/TXKEA_TOTALS.png)
+![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/MCLASS_DEMO.png)
+![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/TXKEA_DEMO.png)
