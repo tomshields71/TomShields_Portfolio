@@ -17,7 +17,7 @@ Data science portfolio
 *Insights included a correlation between underperforming on benchmark assessments and coming from an economically disadvantaged background*
 *One assessment was in need of recalibration as the results consistently categorized the majority of students well below benchmark*
 
-![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/MCLASS_TOTALS.png = 250x250)
+![image](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/MCLASS_TOTALS.png = 250x250)
 ![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/TXKEA_TOTALS.png)
 ![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/MCLASS_DEMO.png)
 ![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/TXKEA_DEMO.png)
