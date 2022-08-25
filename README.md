@@ -12,6 +12,10 @@ Data science portfolio
 
 *Random Forest model with 81% recall score for correctly predicting churn customers and providing insights for a telco e-commerce model*
 
+![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/churn2.png)
+![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/churn3.png)
+![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/churn1.png)
+
 #[Project 2: Predicting Types of Traffic Incidents](https://github.com/tomshields71/Real-Time_Traffic_Incident_Reports)
 
 *Pulled five years’ worth of traffic incident data using Austin city database API resulting in 250,000+ records*
@@ -32,7 +36,7 @@ Data science portfolio
 
 *One assessment was in need of recalibration as the results consistently categorized the majority of students well below benchmark*
 
-![image](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/MCLASS_TOTALS.png = 250x250)
+![image](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/MCLASS_TOTALS.png)
 ![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/TXKEA_TOTALS.png)
 ![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/MCLASS_DEMO.png)
 ![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/TXKEA_DEMO.png)
