@@ -4,13 +4,13 @@ Data science portfolio
 
 #[Project 1: Customer Churn in the Telecom Industry](https://github.com/tomshields71/Churn)
 
-*Performed business analysis for telecom company utilizing data wrangling and EDA with Tableau*
+*Key performance indicator number of customers that leave a company / total number of customers*
+
+*Business analysis for telecom company utilizing Tableau found 27% customer churn over 6 years*
 
 *Utilized the imbalanced-learn library to upsample and downsample data for the purposes of balancing*
 
-*Trained model to identify customers in danger of churning and minimize false positives at 19%*
-
-*Random Forest model with 81% recall score for correctly predicting churn customers and providing insights for a telco e-commerce model*
+*Random Forest model produced 81% recall score for correctly predicting customer churn minimizing false positives at 19%*
 
 ![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/churn2.png)
 ![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/churn3.png)
