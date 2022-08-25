@@ -26,6 +26,10 @@ Data science portfolio
 
 *Binary classification model distinguished traffic incidents with 98% accuracy*
 
+![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/rtt1.png)
+![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/rtt2.png)
+![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/rtt3.png)
+
 #[Project 3: Benchmark Assessment Data K-12](https://github.com/tomshields71/AssessmentData)
 
 *Cleaned and processed two sets of assessment data from two separate satandardized tests*
