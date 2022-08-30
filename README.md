@@ -40,6 +40,6 @@ Data science portfolio
 
 *One assessment was in need of recalibration as the results consistently categorized the majority of students well below benchmark*
 
-![](/images/MCLASS_TOTALS.png) | ![](/images/TXKEA_TOTALS.png)
+![](/images/MCLASS_TOTALS.png)  ![](/images/TXKEA_TOTALS.png)
 ![](/images/MCLASS_DEMO.png)
 ![](/images/TXKEA_DEMO.png)
