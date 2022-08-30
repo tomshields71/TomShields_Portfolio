@@ -40,6 +40,8 @@ Data science portfolio
 
 *One assessment was in need of recalibration as the results consistently categorized the majority of students well below benchmark*
 
-![](/images/MCLASS_TOTALS.png width="425")  ![](/images/TXKEA_TOTALS.png width="425")
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](/images/MCLASS_TOTALS.png) | ![](/images/TXKEA_TOTALS.png)
 ![](/images/MCLASS_DEMO.png)
 ![](/images/TXKEA_DEMO.png)
