@@ -12,9 +12,9 @@ Data science portfolio
 
 *Random Forest model produced 81% recall score for correctly predicting customer churn minimizing false positives at 19%*
 
-![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/churn2.png)
-![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/churn3.png)
-![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/churn1.png)
+![](/images/churn2.png)
+![](/images/churn3.png)
+![](/images/churn1.png)
 
 #[Project 2: Predicting Types of Traffic Incidents](https://github.com/tomshields71/Real-Time_Traffic_Incident_Reports)
 
