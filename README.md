@@ -42,5 +42,7 @@ Data science portfolio
 MCLASS ASSESSMENT |  TXKEA ASSESSMENT
 :----------------:|:------------------:
 <img src="/images/MCLASS_TOTALS.png" width="400" height="500"> | <img src="/images/TXKEA_TOTALS.png" width="600" height="500">
+
+*Demographic Data*
 ![](/images/MCLASS_DEMO.png)
 ![](/images/TXKEA_DEMO.png)
