@@ -42,6 +42,6 @@ Data science portfolio
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](/images/MCLASS_TOTALS.png) | ![](/images/TXKEA_TOTALS.png)
+![](/images/MCLASS_TOTALS.png "title-1" =20%x) | ![](/images/TXKEA_TOTALS.png)
 ![](/images/MCLASS_DEMO.png)
 ![](/images/TXKEA_DEMO.png)
