@@ -39,9 +39,8 @@ Data science portfolio
 *Insights included a correlation between underperforming on benchmark assessments and coming from an economically disadvantaged background*
 
 *One assessment was in need of recalibration as the results consistently categorized the majority of students well below benchmark*
-
-Solarized dark             |  Solarized Ocean
+MCLASS ASSESSMENT            |  TXKEA ASSESSMENT
 :-------------------------:|:-------------------------:
-![](/images/MCLASS_TOTALS.png =20%x) | ![](/images/TXKEA_TOTALS.png)
+![](/images/MCLASS_TOTALS.png) | ![](/images/TXKEA_TOTALS.png)
 ![](/images/MCLASS_DEMO.png)
 ![](/images/TXKEA_DEMO.png)
