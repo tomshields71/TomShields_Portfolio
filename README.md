@@ -16,6 +16,7 @@ Data science portfolio
 ![](/images/churn3.png)
 ![](/images/churn1.png)
 
+
 #[Project 2: Predicting Types of Traffic Incidents](https://github.com/tomshields71/Real-Time_Traffic_Incident_Reports)
 
 *Pulled five years’ worth of traffic incident data using Austin city database API resulting in 250,000+ records*
@@ -28,21 +29,30 @@ Data science portfolio
 
 ![](/images/rtt1.png)
 ![](/images/rtt2.png)
+
+## Evaluation Metrics for Two Categories of Incident
 ![](/images/rtt3.png)
+
+
 
 #[Project 3: Benchmark Assessment Data K-12](https://github.com/tomshields71/AssessmentData)
 
-*Cleaned and processed two sets of assessment data from two separate satandardized tests*
+*The MCLASS assessment had a much larger percentage of their student below benchmark (65.24%) than the TXKEA assessment (15.22%)*
 
-*Created visualizations using Tableau representing demographic trends in the assessment data*
+*Students across all demographics are overwhelming likely to be scored “on track” according to the TXKEA assessment (75.38%)*
 
-*Insights included a correlation between underperforming on benchmark assessments and coming from an economically disadvantaged background*
+*Among those students scored below benchmark on the MCLASS assessment and coming from an economically disadvantaged background (39.7%) as opposed to those who did not come from an economically disadvantaged background (18%)*
 
-*One assessment was in need of recalibration as the results consistently categorized the majority of students well below benchmark*
+*Students that scored “Well Below Benchmark” were nearly 3 times as likely to be from an economically disadvantaged background*
+
 MCLASS ASSESSMENT |  TXKEA ASSESSMENT
 :----------------:|:------------------:
 <img src="/images/MCLASS_TOTALS.png" width="500" height="500"> | <img src="/images/TXKEA_TOTALS.png" width="500" height="500">
 
-*Demographic Data*
+##Demographic Data for MCLASS
 ![](/images/MCLASS_DEMO.png)
+
+##Demographic Data for TXKEA
 ![](/images/TXKEA_DEMO.png)
+
+
