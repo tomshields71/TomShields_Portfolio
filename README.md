@@ -26,9 +26,9 @@ Data science portfolio
 
 *Binary classification model distinguished traffic incidents with 98% accuracy*
 
-![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/rtt1.png)
-![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/rtt2.png)
-![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/rtt3.png)
+![](/images/rtt1.png)
+![](/images/rtt2.png)
+![](/images/rtt3.png)
 
 #[Project 3: Benchmark Assessment Data K-12](https://github.com/tomshields71/AssessmentData)
 
@@ -40,7 +40,7 @@ Data science portfolio
 
 *One assessment was in need of recalibration as the results consistently categorized the majority of students well below benchmark*
 
-![image](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/MCLASS_TOTALS.png)
-![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/TXKEA_TOTALS.png)
-![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/MCLASS_DEMO.png)
-![](https://github.com/tomshields71/Tom_Portfolio/blob/main/images/TXKEA_DEMO.png)
+![](/images/MCLASS_TOTALS.png)
+![](/images/TXKEA_TOTALS.png)
+![](/images/MCLASS_DEMO.png)
+![](/images/TXKEA_DEMO.png)
